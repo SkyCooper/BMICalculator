@@ -4,10 +4,16 @@
 
 ## Visualization of the Website
 
-![image](https://github.com/SkyCooper/IosCalculator/blob/main/calculator.gif)
+![image](https://user-images.githubusercontent.com/106506769/193415910-b3a99818-bfa9-4a9e-a0b9-ea8289bb6cc6.png)
 
 ## Description
+
 Project aims to create a BMI calculator app.
+
+![image](./images/chart.png)
+
+![image](./images/formula.png)
+
 
 ## Learning Outcomes
 
@@ -22,7 +28,7 @@ At the end of the this project, you will be able to;
 
 ## Project Skeleton 
 
-|----Weather Condition App
+|----BMI Calculator
 
         |----index.html  
         |----style.css   
